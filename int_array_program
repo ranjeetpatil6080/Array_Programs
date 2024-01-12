@@ -1,0 +1,22 @@
+// create an array of int type and store 10 elements in an array
+
+class int_array
+{
+public static void main(String[]args)
+{
+int arr[]=new int[10];                  //declaired the length of an Array
+arr[0]=200;                             //Initializing values in memory block or array as per the index value
+arr[1]=20;
+arr[2]=340;
+arr[3]=445;
+arr[4]=550;
+arr[5]=140;
+arr[6]=702;
+arr[7]=80;
+arr[8]=190;
+arr[9]=100;
+
+System.out.println(arr[9]);             //fetching the number in an array by providing index value i.e.[9]=100
+
+}
+}

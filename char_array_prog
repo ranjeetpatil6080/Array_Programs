@@ -1,0 +1,22 @@
+// create an array of char type and store 10 elements in an array
+
+class int_array
+{
+public static void main(String[]args)
+{
+int arr[]=new int[10];                  //declaired the length of an Array
+arr[0]='a';                             //Initializing char datatype values in memory block or array as per the index value
+arr[1]='b';
+arr[2]='c';
+arr[3]='d';
+arr[4]='e';
+arr[5]='a';
+arr[6]='b';
+arr[7]='c';
+arr[8]='d';
+arr[9]='e';
+
+System.out.println(arr[7]);             //fetching the number in an array by providing index value i.e.[7]=c
+
+}
+}

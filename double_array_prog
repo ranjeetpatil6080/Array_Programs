@@ -16,7 +16,7 @@ arr[7]=8.02457;
 arr[8]=1.23548;
 arr[9]=152.00145;
 
-System.out.println(arr[4]);                 //fetching the number in an array by providing index value i.e.[9]=100
+System.out.println(arr[4]);                 //fetching the number in an array by providing index value i.e.[4]=550.4784
 
 }
 }

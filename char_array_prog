@@ -1,10 +1,10 @@
 // create an array of char type and store 10 elements in an array
 
-class int_array
+class char_array
 {
 public static void main(String[]args)
 {
-int arr[]=new int[10];                  //declaired the length of an Array
+char arr[]=new int[10];                  //declaired the length of an Array
 arr[0]='a';                             //Initializing char datatype values in memory block or array as per the index value
 arr[1]='b';
 arr[2]='c';

@@ -1,11 +1,11 @@
 // create an array of double type and store 10 elements in an array
 
-class int_array
+class double_array
 {
 public static void main(String[]args)
 {
-int arr[]=new int[10];                      //declaired the length of an Array
-arr[0]=140.255;                             //Initializing values as double dattatype in memory block or array as per the index value
+double arr[]=new int[10];                      //declaired the length of an Array
+arr[0]=140.255;                               //Initializing values as double dattatype in memory block or array as per the index value
 arr[1]=20.254;
 arr[2]=340.0524;
 arr[3]=445.2314;
